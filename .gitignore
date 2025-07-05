@@ -1,0 +1,18 @@
+# Ignore node_modules and other build folders
+node_modules/
+.next/
+dist/
+build/
+out/
+*.log
+
+# Ignore environment and IDE files
+.env
+.idea/
+*.iml
+
+# Java build artifacts
+*.class
+*.jar
+*.war
+target/
