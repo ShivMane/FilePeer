@@ -207,6 +207,9 @@ Options include:
 - Cloud deployment (Heroku, Railway, Vercel, Netlify)
 - VPS deployment
 
+📎 -Project GitHub Repos:
+- Github : https://lnkd.in/dyy3csS3
+- Live Project (AWS EC2 IP): http://13.234.219.43
 ## License
 
 MIT
